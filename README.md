@@ -29,7 +29,7 @@ Tabel berikut berisi dugaan awal yang perlu diuji, bukan hasil survei atau wawan
 ### B. Flowchart sistem yang berjalan (rancangan awal)
 
 
-![Flowchart Sistem Berjalan](image/flowchart01.png)
+![Flowchart Sistem Berjalan](flowchart01.png)
 
 
 Diagram menggambarkan satu skenario pencatatan manual yang mungkin terjadi, bukan klaim tentang kondisi seluruh calon pengguna. Diagram harus direvisi berdasarkan temuan nyata.
@@ -76,7 +76,7 @@ Batasan versi awal: tidak mencakup transfer uang, integrasi rekening bank, pemba
 ### C. Flowchart Sistem Yang Ditawarkan
 
 
-![Flowchart Sistem yang Ditawarkan](image/flowchar02.png)
+![Flowchart Sistem yang Ditawarkan](flowchar02.png)
 
 
 Nominal harus lebih besar dari nol, jenis transaksi harus dipilih, tanggal harus valid, dan kategori harus tersedia. Penghapusan atau perubahan transaksi harus diikuti perhitungan ulang ringkasan. Saldo yang ditampilkan merupakan saldo berdasarkan catatan pengguna, bukan saldo rekening bank.
